@@ -882,7 +882,7 @@ margin-top: 2%;
 /**
  * responsive for large than 575px screen
  */
- @media (min-width: 400px) {
+ @media (min-width: 300px) {
   .hero-content  .h1{
     margin: 0px 50px;
   }

@@ -922,7 +922,7 @@ margin-top: 28px;
  * responsive for large than 575px screen
  */
 
- @media (min-width: 400px) {
+ @media (min-width: 300px) {
   .slidershow{
     width: 500px;
     height: 300px;

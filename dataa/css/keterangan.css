@@ -768,7 +768,7 @@ text-align: center;
  * responsive for large than 575px screen
  */
 
- @media (min-width: 400px){
+ @media (min-width: 300px){
   .title{
    padding-left: 50px;
   }
