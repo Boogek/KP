@@ -944,10 +944,10 @@ text-align: center;
   .tabel2{width: 100px; height: 300px;}
   .tabel3{width: 100px; height: 300px;}
   .penjelasan{
-    align-items: normal;
+    font-size: 30px;
     margin-bottom: 5%;
     margin-top: 3;
-    
+    text-align: center;
     }
 }
 
