@@ -823,7 +823,7 @@ margin-top: 3;
   padding: 2rem;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 300px) {
   .cards_item {
     display: flex;
     width: 50%;
