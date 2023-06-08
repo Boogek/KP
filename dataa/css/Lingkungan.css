@@ -866,7 +866,11 @@ margin-top: 28px;
   .hero-content span{
     margin-right: 83%;
   }
-
+  .slidershow{
+    width: 400px;
+    height: 390px;
+    overflow: hidden;
+  }
 
 
   /**
