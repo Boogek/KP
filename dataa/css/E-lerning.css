@@ -940,11 +940,12 @@ text-align: center;
  * responsive for large than 575px screen
  */
 @media (min-width: 300px){
-  .tabel1{width: 100px; height: 300px;}
-  .tabel2{width: 100px; height: 300px;}
-  .tabel3{width: 100px; height: 300px;}
+  .tabel1{width: 400px; height: 300px;}
+  .tabel2{width: 400px; height: 300px;}
+  .tabel3{width: 400px; height: 300px;}
+
   .penjelasan{
-    font-size: 30px;
+    
     margin-bottom: 5%;
     margin-top: 3;
     text-align: center;
