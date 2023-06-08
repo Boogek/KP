@@ -939,7 +939,7 @@ text-align: center;
 /**
  * responsive for large than 575px screen
  */
-@media (min-width: 300px){
+@media (min-width: 400px){
   .tabel1{width: 600px; height: 300px;}
   .tabel2{width: 600px; height: 300px;}
   .tabel3{width: 600px; height: 300px;}
