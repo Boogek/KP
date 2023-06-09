@@ -733,7 +733,7 @@ header.sticky{
     .containers .box-container{
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
-      gap:15px;
+      gap:10px;
     }
 
     .containers .box-container .box{
