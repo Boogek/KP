@@ -710,6 +710,7 @@ padding-top: 40px;
   color: black;
   display: flex;
   justify-content: center;
+  font-size: 26px;
 }
 
 h2{
@@ -717,21 +718,15 @@ h2{
   margin-top: 90px;
 }
 
-.containers, .box, p{
+.containers p{
   padding-top: 20px;
 }
 
 p{
   text-align:justify;
-  
   font-weight: 200;   
 }
-.container1{
-margin: -50px 0px 0px 0px;
-background: rgba(185, 185, 185, 0.416);
-  padding: 10%;
-  padding-bottom: 100px;
-}
+
 
 /*========= Done isi-body ==========*/
 
