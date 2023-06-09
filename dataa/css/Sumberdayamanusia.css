@@ -696,7 +696,9 @@ font-size: 50px;
 
 
 /*========= isi-body ==========*/
-
+.isi {
+  padding: 10%;
+}
 .containers{
   background: rgba(185, 185, 185, 0.416);
   padding: 10px;
