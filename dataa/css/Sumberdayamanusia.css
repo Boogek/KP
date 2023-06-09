@@ -811,7 +811,7 @@ input[name="r"]{
 /*========= Footer ==========*/
 
 .foter{
-  margin: 100px -160px;
+  margin: 100px -140px;
     position: absolute;
     width: 100%;
     height: 10%;
@@ -842,6 +842,8 @@ margin-top: 28px;
   .slidershow{
     width: 500px;
   }
+  .footer{
+  margin: 100px -100px;}
 }
 
 @media (min-width: 300px) {
