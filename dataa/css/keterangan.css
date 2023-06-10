@@ -777,6 +777,7 @@ text-align: center;
     margin-top: 50px;
   }
   .section-title{
+    text-align:center;
     font-size: 30px;
     margin: 50%;
   }
