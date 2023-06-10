@@ -840,6 +840,9 @@ margin-top: 28px;
   .slidershow{
     width: 500px;
   }
+  .isi {
+    padding: 10%;
+  }
 }
 
 @media (min-width: 300px) {
