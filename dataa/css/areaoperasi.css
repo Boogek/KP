@@ -695,7 +695,7 @@ font-size: 50px;
 
 
 
-/*isi table*/
+/*======isi table========*/
 
 h1{
   font-family: sans-serif;
@@ -963,15 +963,6 @@ margin-top: 28px;
     height: 390px;
     overflow: hidden;
   }
-
-  
-  .area {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    grid-gap: 0,5rem;
-}
-
-
   /**
    * PROJECTS
    */
