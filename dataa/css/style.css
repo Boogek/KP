@@ -405,6 +405,7 @@ header.sticky{
   transform: rotate(-90deg);
 }
 
+
 .arrow{
   position: absolute;
   width: 11px;
@@ -719,8 +720,7 @@ header.sticky{
 }
 .wrapper{
   display: flex;
-  text-align: center;
-  padding: 0px 0px -50px 0px;
+  padding: 0px 50px -50px 0px;
 }
 .cliens img {
   max-width: 60%;
