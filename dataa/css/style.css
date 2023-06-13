@@ -720,7 +720,7 @@ header.sticky{
 }
 .wrapper{
   display: flex;
-  padding: 0px 50px -50px 0px;
+  margin: 0px 50px;
 }
 .cliens img {
   max-width: 60%;
